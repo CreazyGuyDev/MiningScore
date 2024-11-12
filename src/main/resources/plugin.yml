@@ -1,0 +1,8 @@
+name: MiningScore
+version: '1.0-SNAPSHOT'
+main: pl.creazy.miningscore.MiningScore
+api-version: '1.21'
+authors: [ Creazy Guy ]
+website: creazy.pl
+depend:
+  - CreazyLib
